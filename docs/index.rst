@@ -12,3 +12,4 @@ Welcome to Temperature's documentation!
 	     
    project-intro.md
    temperatures.md
+   api.rst
